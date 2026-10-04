@@ -3,7 +3,7 @@
 Upgrade and tune Debian on **MSM8916-based 4G dongles** (JZ01-45-@,
 JZ0145_V33, UZ801, UFI001C, and similar).
 
-**Two scripts, no installer, no flashing.** Point it at a working
+**Three scripts, no installer, no flashing.** Point it at a working
 OpenStick/Debian install and it upgrades + tunes in place.
 
 ---
