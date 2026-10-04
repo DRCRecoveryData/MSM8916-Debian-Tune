@@ -56,13 +56,13 @@ screen -S upgrade
 
 # 1. Clone or copy the scripts to /root
 cd /root
-git clone https://github.com/<you>/msm8916-debian-tune.git
+git clone https://github.com/DRCRecoveryData/MSM8916-Debian-Tune.git
 
 # 2. Take an EDL backup first (see docs/UPGRADE.md)
 # ...
 
 # 3. Run the upgrade
-cd msm8916-debian-tune
+cd MSM8916-Debian-Tune
 sudo bash upgrade-to-trixie.sh
 
 # 4. After reboot, apply tuning
